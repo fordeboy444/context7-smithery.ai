@@ -1,0 +1,6 @@
+# Smithery configuration file: https://smithery.ai/docs/config#smitheryyaml
+
+runtime: node
+startCommand:
+  type: stdio
+  commandFunction: start:stdio
